@@ -15,7 +15,7 @@ module.exports = Object.assign({}, themeReco, {
       title: '耶稣的旧花园',
       desc: '最懂你的翻墙小工具',
       avatar: "",
-      link: 'https://vuepress-theme-reco.recoluan.com'
+      link: 'https://v2b.cctb.xyz'
     },
   ],
   valineConfig: {
