@@ -27,6 +27,7 @@ module.exports = {
     appKey: 'YR9hEOCBUgqfCiQvdN639YtV', // your appKey
     visitor: true,
     placeholder: 'enjoy yourself',
-    avatar: ''
+    avatar: '',
+    recordIP: true
   },
 }

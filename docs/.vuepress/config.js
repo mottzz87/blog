@@ -15,6 +15,7 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
+    ['cursor-effects'],
     // 支持流程图
     ['flowchart'],
 
@@ -40,7 +41,7 @@ module.exports = {
         '@vuepress-reco/vuepress-plugin-bgm-player',  
         {
           audios: [
-            {name: '爱太痛',artist: '吴克群',url: 'https://m7.music.126.net/20200427230403/7442c3fc75bff2b29e2bb8c136359bce/ymusic/d260/bf6e/c45c/fe975bd2f2ee1c1de9c60b362121caed.mp3',cover: 'https://p1.music.126.net/JDBrrfHYWwGNqfVcmmhcQg==/112150186046503.jpg'},
+            {name: '爱太痛',artist: '吴克群',url: '/blog/sources/aitaitong.mp3',cover: 'https://p1.music.126.net/JDBrrfHYWwGNqfVcmmhcQg==/112150186046503.jpg'},
             // {name: 'Dawn',artist: 'DDRKirby(ISQ)',url: 'https://cdn-image.tsanfer.xyz/music/Dawn%20-%20DDRKirby%28ISQ%29.mp3',cover: 'https://p2.music.126.net/IPnqMCk8YaN9inwYV2bdgQ==/18774161044446693.jpg'},
           ],
           autoShrink: true, //是否默认缩小
