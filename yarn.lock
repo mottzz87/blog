@@ -8627,6 +8627,10 @@ vuepress-plugin-reading-progress@^1.0.9:
   version "1.0.9"
   resolved "https://registry.npm.taobao.org/vuepress-plugin-reading-progress/download/vuepress-plugin-reading-progress-1.0.9.tgz#800cef1ed93abe9ab7aae0147d269d1b1359ef32"
 
+vuepress-plugin-reward@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npm.taobao.org/vuepress-plugin-reward/download/vuepress-plugin-reward-1.0.2.tgz#9fcb7d405d4e602b880f75081ab9d2ce14757e1d"
+
 vuepress-plugin-seo@^0.1.2:
   version "0.1.2"
   resolved "https://registry.npm.taobao.org/vuepress-plugin-seo/download/vuepress-plugin-seo-0.1.2.tgz#132e656274bfaffce72e816fb8450951f3f6cc13"

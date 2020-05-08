@@ -54,6 +54,22 @@ module.exports = {
             'z-index': '999999999'
           }
         },
-    ]
+    ],
+    ['reward', {
+      btnText: '打赏', // reward button text.
+      title: '客官，给作者赏一杯咖啡吧', // First reward text.
+      subTitle: '您的支持将是我继续更新下去的动力', // Second reward text.
+      rewardOption: [ // your QR code image.
+        {
+          text: '微信',
+          url: 'https://cdn.jsdelivr.net/gh/hudiegu/figure/img/2020/05/08/20200508224659.jpg' // ddd your picture to docs/.vuepress/public
+        },
+        {
+          text: '支付宝',
+          url: 'https://cdn.jsdelivr.net/gh/hudiegu/figure/img/2020/05/08/20200508225010.jpg' // ddd your picture to docs/.vuepress/public
+        }
+      ],
+      showInMobile: false // whether to display on the mobile side, default: false.
+    }]
   ]
 }  

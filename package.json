@@ -30,6 +30,7 @@
     "vuepress-theme-reco": "1.4.0"
   },
   "devDependencies": {
-    "vuepress-plugin-cursor-effects": "^0.0.4"
+    "vuepress-plugin-cursor-effects": "^0.0.4",
+    "vuepress-plugin-reward": "^1.0.2"
   }
 }
