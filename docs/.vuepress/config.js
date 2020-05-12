@@ -62,11 +62,11 @@ module.exports = {
       rewardOption: [ // your QR code image.
         {
           text: '微信',
-          url: 'https://cdn.jsdelivr.net/gh/hudiegu/figure/img/2020/05/08/20200508224659.jpg' // ddd your picture to docs/.vuepress/public
+          url: 'https://cdn.jsdelivr.net/gh/hudiegu/cdn/img/2020/05/12/20200512212849.jpg' // ddd your picture to docs/.vuepress/public
         },
         {
           text: '支付宝',
-          url: 'https://cdn.jsdelivr.net/gh/hudiegu/figure/img/2020/05/08/20200508225010.jpg' // ddd your picture to docs/.vuepress/public
+          url: 'https://cdn.jsdelivr.net/gh/hudiegu/cdn/img/2020/05/12/20200512212836.jpg' // ddd your picture to docs/.vuepress/public
         }
       ],
       showInMobile: false // whether to display on the mobile side, default: false.
