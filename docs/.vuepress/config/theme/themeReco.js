@@ -26,6 +26,7 @@ module.exports = {
     appId: 'WEmaPOlACNWJ2N4ftTrvwyGI-gzGzoHsz',// your appId
     appKey: 'YR9hEOCBUgqfCiQvdN639YtV', // your appKey
     visitor: true,
+    notify: true,
     placeholder: 'enjoy yourself',
     avatar: '',
     recordIP: true
