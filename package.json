@@ -11,8 +11,8 @@
     "start": "vuepress dev docs",
     "che": "vuepress dev docs --cache .cache",
     "build": "vuepress build docs",
-    "depmac": "vuepress build docs &&  ./gitee_deploy_unix.sh",
-    "dep": "vuepress build docs &&  ./gitee_deploy.sh"
+    "depmac": "vuepress build docs && sh ./gitee_deploy_unix.sh",
+    "dep": "vuepress build docs && sh ./gitee_deploy.sh"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.3",
