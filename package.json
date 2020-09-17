@@ -8,9 +8,10 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vuepress dev docs",
+    "start": "vuepress dev docs",
     "che": "vuepress dev docs --cache .cache",
     "build": "vuepress build docs",
+    "depmac": "vuepress build docs &&  ./gitee_deploy_unix.sh",
     "dep": "vuepress build docs &&  ./gitee_deploy.sh"
   },
   "dependencies": {
