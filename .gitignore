@@ -1,7 +1,7 @@
-node_modules/
+/node_modules/
 /.cache
 /.vscode
-gitee_deploy.sh
-gitee_deploy_unix.sh
-public/
-yarn-error.log
+/public/
+/yarn-error.log
+/gitee_deploy.sh
+/gitee_deploy_mac.sh
