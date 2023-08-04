@@ -2,6 +2,7 @@
 /.cache
 /.vscode
 /public/
+**/.DS_Store
 /yarn-error.log
 /gitee_deploy.sh
 /gitee_deploy_mac.sh
